@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushenjayasuriya
-- 👀 I’m interested in Web Desingning
-- 🌱 I’m currently learning I.C.T.
+- 👀 I’m a network engineer
+- 🌱 I’m currently studying at Sri Lanka Institute of Information Technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
